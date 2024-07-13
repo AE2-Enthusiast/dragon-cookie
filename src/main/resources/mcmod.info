@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "Good Dragon, Yes Cookie!",
+    "description": "If a dragon fights and no players are nearby, is she really fighting?",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": ["Stone"],
+    "credits": "",
+    "dependencies": []
+}]
